@@ -2,8 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/001194
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.8/context.json
-about:
-- {}
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -16,6 +15,7 @@ citation: Obaid Khurram; Gary Sieck; Carlos Mantilla (2024) Identification of eu
 contributor:
 - affiliation: []
   email: khurram.obaid@mayo.edu
+  identifier: 0000-0001-9103-4713
   includeInCitation: true
   name: Obaid Khurram
   roleName:
