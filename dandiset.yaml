@@ -10,14 +10,14 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Obaid Khurram; Gary Sieck; Carlos Mantilla (2024) Identification of eupneic
+citation: Khurram, Obaid; Sieck, Gary; Mantilla, Carlos (2024) Identification of eupneic
   breathing using machine learning (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001194/draft
 contributor:
 - affiliation: []
   email: khurram.obaid@mayo.edu
   identifier: 0000-0001-9103-4713
   includeInCitation: true
-  name: Obaid Khurram
+  name: Khurram, Obaid
   roleName:
   - dcite:Author
   - dcite:ContactPerson
@@ -26,7 +26,7 @@ contributor:
 - email: sieck.gary@mayo.edu
   identifier: 0000-0003-3040-9424
   includeInCitation: true
-  name: Gary Sieck
+  name: Sieck, Gary
   roleName:
   - dcite:Author
   - dcite:ProjectLeader
@@ -35,7 +35,7 @@ contributor:
 - email: mantilla.carlos@mayo.edu
   identifier: 0000-0001-5446-9208
   includeInCitation: true
-  name: Carlos Mantilla
+  name: Mantilla, Carlos
   roleName:
   - dcite:Author
   schemaKey: Person
